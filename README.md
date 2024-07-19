@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @loki-199901
 - 👀 I’m interested in becoming a Data Analyst. 
 - 🌱 I’m currently learning SQL. 
-- 💞️ I’m looking to collaborate on Data Cleaning and Data 
-- 📫 How to reach me Call me. 
+- 💞️ I’m looking to collaborate on Data collecting and Data Cleaning Projects
+- 📫 How to reach me email me. 
 - ⚡ Fun fact: Football enthusiast. 
 
 <!---
