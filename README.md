@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @loki-199901
-- 👀 I’m currently on to become a Data Scientist. 
+- 👀 I’m currently working to become a Data Scientist
 - 💞️ I’m looking to collaborate on Data Related Projects
 - 📫 How to reach me email me. 
 - ⚡ Fun fact: Football enthusiast. 
